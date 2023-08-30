@@ -1,0 +1,19 @@
+{
+    "name": "jemer/string-helper",
+    "description": "Helpers for dealing with strings and file paths",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Jemer\\StringHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jemer",
+            "email": "jemerson6989@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
